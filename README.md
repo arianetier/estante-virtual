@@ -8,7 +8,7 @@
 <a href="#desenvolvedora">Desenvolvedora</a>
 </p>
 
-<h1 id="sobre">🎯 Case: Estante Virtual - Jogos Olímpicos</h1>
+<h1 id="sobre">🥇 Case: Estante Virtual - Jogos Olímpicos</h1>
 
 <p>Com a chegada dos jogos olímpicos, fomos designados para construir uma API REST para o COB (Comitê Olímico Brasileiro), que será responsável por marcar e dizer os vencedores das seguintes modalidades:</p>
 
@@ -28,7 +28,7 @@
 - [x] Finalizar uma competição.
 - [x] Retornar o ranking da competição, exibindo a posição final de cada atleta. 
 
-⚠️ <b>Detalhes</b>
+⚠️ <b>Detalhes:</b>
 - [x] A API não deve aceitar cadastros de resultados se a competição já estiver encerrada.
 - [x] A API pode retornar o ranking/resultado parcial, caso a disputa ainda não estiver encerrada.
 - [x] No caso da competição do lançamento de dardos, cada atleta terá 3 chances, e o resultado da competição deverá levar em conta o lançamento mais distante de cada atleta.
