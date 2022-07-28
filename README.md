@@ -10,7 +10,7 @@
 
 <h1 id="sobre">🥇 Case: Estante Virtual - Jogos Olímpicos</h1>
 
-<p>Com a chegada dos jogos olímpicos, fomos designados para construir uma API REST para o COB (Comitê Olímico Brasileiro), que será responsável por marcar e dizer os vencedores das seguintes modalidades:</p>
+<p>Com a chegada dos jogos olímpicos, fomos designados para construir uma API REST para o COB (Comitê Olímpico Brasileiro), que será responsável por marcar e dizer os vencedores das seguintes modalidades:</p>
 
 • 100m rasos: Menor tempo vence.
 
